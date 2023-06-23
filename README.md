@@ -1,7 +1,5 @@
 # Cognitive-Robotics
 
-[Course Website](https://ocasys.rug.nl/current/catalog/course/WMAI003-05)
-
 ## Projects
 
 [Active segmentation of cluttered scenes](https://github.com/PericoLedesma/Cognitive-Robotics/blob/main/Active%20segmentation%20of%20cluttered%20scenes.pdf)
@@ -20,7 +18,6 @@ The course is a combination of lectures, reading sessions, and lab sessions. The
 
 ## Learning outcomes
 
-After successful completion of this course, students will be able to: 
 1. Explain the main theories of open-ended learning and cognitive robotics. 
 2. Explain meaning of different concepts often used in the field of 3D computer vision and Human Robot Interaction and their application in robotics. 
 3. Exploit deep transfer learning algorithms for open-ended object category recognition. 
