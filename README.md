@@ -2,6 +2,11 @@
 
 [Course Website](https://ocasys.rug.nl/current/catalog/course/WMAI003-05)
 
+##Projects
+
+### [Active segmentation of cluttered scenes](https://github.com/PericoLedesma/Cognitive-Robotics/blob/main/Active%20segmentation%20of%20cluttered%20scenes.pdf)
+### Coupling between Perception and Manipulation
+
 ## Description
 Cognitive robots are expected to be more autonomous and efficiently work in human-centric environments. A cognitive robot should process very different types of information in varying time scales. Two different modes of processing, generally labeled as System1 and System2, are commonly accepted theories in cognitive psychology. The operations of System1 (i.e. perception and action) are typically fast, reactive, and intuitive. The operations of System2 (i.e. semantic) are slow, deliberative, and analytic. 
 
