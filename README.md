@@ -2,6 +2,8 @@
 
 ## Projects
 
+Open-Ended Learning Approaches for 3D Object Recognition
+
 [Active segmentation of cluttered scenes](https://github.com/PericoLedesma/Cognitive-Robotics/blob/main/Active%20segmentation%20of%20cluttered%20scenes.pdf)
  
 [Coupling between Perception and Manipulation](https://github.com/PericoLedesma/Cognitive-Robotics/blob/main/Coupling%20between%20Perception%20and%20Manipulation.pdf)
