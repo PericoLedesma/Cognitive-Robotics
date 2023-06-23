@@ -2,7 +2,7 @@
 
 ## Projects
 
-Open-Ended Learning Approaches for 3D Object Recognition
+[Open-Ended Learning Approaches for 3D Object Recognition](https://github.com/PericoLedesma/Cognitive-Robotics/blob/main/Open-Ended%20Learning%20Approaches%20for%203D%20Object%20Recognition.pdf)
 
 [Active segmentation of cluttered scenes](https://github.com/PericoLedesma/Cognitive-Robotics/blob/main/Active%20segmentation%20of%20cluttered%20scenes.pdf)
  
