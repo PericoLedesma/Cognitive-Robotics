@@ -2,7 +2,7 @@
 
 [Course Website](https://ocasys.rug.nl/current/catalog/course/WMAI003-05)
 
-##Projects
+## Projects
 
 [Active segmentation of cluttered scenes](https://github.com/PericoLedesma/Cognitive-Robotics/blob/main/Active%20segmentation%20of%20cluttered%20scenes.pdf)
  
